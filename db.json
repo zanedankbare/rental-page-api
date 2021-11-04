@@ -1,0 +1,89 @@
+{
+    "blogs": [
+      {
+        "title": "Luxury Villa in Bali, Indonesia",
+        "price": "$4,654,654",
+        "path": "/homes/bali",
+        "label": "View Villa",
+        "paragraph":
+          "Lavish and adventurous, take a spin around your ocean view villa’s private island on a luxury yacht where breaching dolphins and fair trade winds are constant companions.",
+        "image": "../images/house9.jpg",
+        "imageHover": "../images/house10interior.jpg",
+        
+        "alt": "House",
+        "id": 1
+      },
+      {
+        "title": "Modern home in Latvia, Europe",
+        "price": "$6,765,875",
+        "path": "/homes",
+        "label": "View Home",
+        "paragraph":
+          "Dive the deep blue sea of the Vittaveli to uncover the mysteries of shipwrecks and buried treasure.",
+        "image": "../images/house3.jpg",
+        "imageHover": "../images/house4.jpg",
+        "alt": "House",
+        "id": 2
+      },
+      {
+        "title": "Spacious Mansion in Milano, Rome",
+        "price": "$2,543,234",
+        "path": "/homes",
+        "label": "View Mansion",
+        "paragraph":
+          "The grounds include a master sanctuary, a two-storey guest house, and two one-bedroom guest villas.",
+        "image": "../images/house5.jpg",
+        "imageHover": "../images/house6.jpg",
+        "alt": "House",
+        "id": 3
+      },
+      {
+      "title": "Beautiful Villa in California, USA",
+      "price": "$64,346,765",
+      "path": "/homes",
+      "label": "View Villa",
+      "paragraph":
+          "Private and tranquil, a lily pond surrounds the adjacent sunken lounge. A stunning living and dining pavilion leads to a designer pool with a wrap-around deck providing incredible panoramic ocean views.",
+      "image": "../images/house7.jpg",
+      "imageHover": "../images/house7.jpg",
+      "alt": "House",
+      "id": 4
+      },
+      {
+        "title": "House in Las Vegas, Nevada",
+        "price": "$6,765,875",
+        "path": "/homes",
+        "label": "View Home",
+        "image": "../images/house9.jpg",
+        "imageHover": "../images/house10interior.jpg",
+        "paragraph":
+          "The grounds include a master sanctuary, a two-storey guest house, and two one-bedroom guest villas.",
+        "alt": "House",
+        "id": 5
+      },
+      {
+        "title": "House in Houston, Texas",
+        "price": "$2,543,234",
+        "path": "/homes",
+        "label": "View Home",
+        "paragraph":
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "image": "../images/house1.jpg",
+        "imageHover": "../images/interior3.jpg",
+        "alt": "House",
+        "id": 6
+      },
+      {
+        "title": "House in Alajuela, Costa Rica",
+        "price": "$64,346,765",
+        "path": "/homes",
+        "label": "View Home",
+        "paragraph":
+          "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "image": "../images/house2.jpg",
+        "imageHover": "../images/house1.jpg",
+        "alt": "House",
+        "id": 7
+      }
+    ]
+  }
